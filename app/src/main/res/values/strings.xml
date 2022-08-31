@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Registrarte -->
+    <string name="nombre__completo_label">Nombre Completo</string>
+    <string name="direccion_label">Direccion</string>
+    <string name="celular_label">Celular</string>
+    <string name="n_doc_i_label">Número de Documento Edentidad</string>
+    <string name="password_label">Contraseña</string>
+    <string name="escribe_tu_nombre_label">escribe tu nombre</string>
+    <string name="escribe_tu_direccion_label">escribe tu direccion</string>
+    <string name="escribe_tu_celular_label">escribe tu numero de celular</string>
+    <string name="escribe_tu_n_doc_i_label">numero de Documento Identidad</string>
+    <string name="escribe_tu_correo_electronico_label">escribe tu correo electronico</string>
+    <string name="escribe_una_contraseña_label">escribe una contraseña</string>
+    <string name="ya_tienes_cuenta_label">¿Ya tienes cuenta?</string>
+    <string name="usuario_registrado_label">Usuario Registrado</string>
+
+    <!-- login -->
+    <string name="escribe_tu_contraseña_label">escribe tu contraseña</string>
+    <string name="iniciar_session_label">Inciar sesión</string>
+    <string name="crear_cuenta_label">CREAR CUENTA</string>
+    <string name="olvidaste_tu_contraseña_label">¿Olvidaste tu contraseña?</string>
+    <string name="aun_no_tienes_cuenta_label">¿Aún no tienes cuenta?</string>
+    <string name="email_label">Correo electrónico</string>
+
+
+</resources>
